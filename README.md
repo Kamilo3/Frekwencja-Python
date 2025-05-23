@@ -1,1 +1,1 @@
-# Frekwencja-Python
+Program konsolowy do zarządzania kursami, studentami, ocenami i frekwencją. Umożliwia tworzenie kursów, dodawanie do nich studentów, rejestrowanie ocen oraz obecności na zajęciach z dokładnym zapisem daty i czasu. Dzięki temu można łatwo monitorować postępy i frekwencję uczestników danego kursu. Program pozwala także wyświetlać raporty podsumowujące średnie oceny oraz statystyki frekwencji dla każdego studenta.
